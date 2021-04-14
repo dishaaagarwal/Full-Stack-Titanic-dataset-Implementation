@@ -13,7 +13,7 @@ Show a simple example of an analysis of the Titanic disaster in Python and imple
 
 1. **Hypothesis Generation**
 
-2.**Data Exploration (EDA)**
+2. **Data Exploration (EDA)**
 
 ![](/images/univariate.png) Univariate Analysis
 
